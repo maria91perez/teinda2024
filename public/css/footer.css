@@ -1,0 +1,30 @@
+/* Estilos para el footer */
+footer {
+    background-color: #000203;
+    padding: 4px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    background-color: #000203;
+}
+
+.icon {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+/* Estilos para el texto más pequeño */
+.small-text {
+    font-size: 15px;
+    
+}
